@@ -1,0 +1,39 @@
+body {
+    background-image: url('WhatsApp Image 2023-09-22 at 23.02.46.jpg');
+    background-size: cover;
+  }
+  
+header{
+    background-color: chartreuse;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration-line: underline;
+}
+h2{
+    text-align: center;
+    text-decoration-line: underline;
+}
+img{
+    height: 300px;
+    width: auto;
+}
+h4{
+    color: crimson;
+}
+ul{
+    color: darkblue;
+    font-size: large;
+}
+h5{
+    font-size: large;
+    font-style: italic;
+}
+p{
+    font-size: large;
+    font-weight: 400;
+    font-style: italic;
+    color: cyan;
+}
